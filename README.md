@@ -132,7 +132,8 @@ After creating the measures and going through the data to ensure that all was fi
 ![](https://github.com/blessingekwere/Amazon-Sales/blob/main/Amazon%20Sales%20new%201_page-0001.jpg)
 ##### Amazon Sales Dashboard
 
-Kindly Click [here](https://app.powerbi.com/groups/me/reports/3cadeebd-6bcf-4658-a583-67f5bb4725a9/ReportSection) to interact with the report
+
+Kindly Click [here](https://app.powerbi.com/groups/me/reports/3cadeebd-6bcf-4658-a583-67f5bb4725a9/ReportSection) to view with the report
 
 ## Insight
 
