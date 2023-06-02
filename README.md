@@ -152,4 +152,4 @@ Thank you so much for reading this article.
 
 Your comments, suggestions and recommendations will be highly appreciated. :blush:
 
-Kindly connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-ekwere-857326216) and Twitter[](https://twitter.com/Eddie_Gregs?t=dF3996shVxvPJTePTtxDdw&s=09)
+Kindly connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-ekwere-857326216) and [Twitter](https://twitter.com/Eddie_Gregs?t=dF3996shVxvPJTePTtxDdw&s=09)
