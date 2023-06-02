@@ -133,7 +133,7 @@ After creating the measures and going through the data to ensure that all was fi
 ##### Amazon Sales Dashboard
 
 
-Kindly Click [here](https://app.powerbi.com/groups/me/reports/3cadeebd-6bcf-4658-a583-67f5bb4725a9/ReportSection) to view with the report
+Kindly Click [here](https://app.powerbi.com/view?r=eyJrIjoiZTVkNmJlNDYtNTI2NS00MDU1LWJkNGQtNmQzNDJkMTU2NmZjIiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9) to view with the report
 
 ## Insight
 
@@ -151,3 +151,5 @@ Having gone through the amazon sales data for the unspecified period of time and
 Thank you so much for reading this article.
 
 Your comments, suggestions and recommendations will be highly appreciated. :blush:
+
+Kindly connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-ekwere-857326216) and Twitter[](https://twitter.com/Eddie_Gregs?t=dF3996shVxvPJTePTtxDdw&s=09)
